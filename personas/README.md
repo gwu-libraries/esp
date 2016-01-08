@@ -1,3 +1,3 @@
 A place for ESP personas written in [GitHub Markdown] (https://help.github.com/articles/markdown-basics/)
 
-- [Author](/author.md)
+- [Author](/personas/author.md)
