@@ -1,1 +1,0 @@
-Persona for user AUTHOR
