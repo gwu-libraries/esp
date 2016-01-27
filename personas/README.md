@@ -1,3 +1,11 @@
-A place for ESP personas written in [GitHub Markdown] (https://help.github.com/articles/markdown-basics/)
+A place for ESP personas recorded in [GitHub Markdown](https://help.github.com/articles/markdown-basics/)
 
-- [Author](/personas/author.md)
+We will be using personas in this project to:
+1. Organize our knowledge and beliefs about who are the most likely and most important users of the ETD stewardship system
+2. Prioritize feature development through the creation and prioritization of user stories based on the personas
+3. Potentially identify areas where additional research into user needs or behavior would be useful
+
+The [Sample](/personas/sample.md) persona can be used as a template for developing personas
+
+Current personas for ESP:
+* [Archivist](/personas/archivist.md)
