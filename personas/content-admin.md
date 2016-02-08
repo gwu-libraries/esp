@@ -1,4 +1,4 @@
-# Archivist
+# Content Administrator
 
 Placeholder for image
 
