@@ -2,7 +2,7 @@
 
 #Characteristics
 
-*The Student has four distinct phases to their persona. She not only searches for ETDs but also will be contributing ETDs and will be interested in how discoverable her ETD is by other searchers, including external searchers. She will be both a searcher and user of the project. The student will only occasionally seek out the ETD portal, perhaps once or twice a year.*  
+*The Student has four distinct phases to their persona. She not only searches for ETDs and other scholarly content but also will be contributing ETDs and will be interested in how discoverable her ETD is by other searchers, including external searchers. She will be both a searcher and user of the project. The student will only occasionally seek out the digital repository portal, perhaps once or twice a year.*  
 
 ##Goals: 
 ###Phase One (Prospective Student):
