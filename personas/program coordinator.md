@@ -1,6 +1,6 @@
 
 # Program Coordinator
-
+![headshot](images/program-coordinator.png)
 
 ## Characteristics
 The Program Coordinator works in the graduate school directly with the graduate students from the time of enrollment through the submission of the student’s thesis or dissertation, and clearance for graduation.  The program coordinator/school administrator plays a key role in ensuring the student meets all the requirements for graduation, including the timely completion of the ETD submission process as part of those graduation requirements.
