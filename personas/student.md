@@ -1,4 +1,4 @@
-![headshot](images/student.jpg)  
+![headshot] (images/student.jpg)  
 
 #Characteristics
 
