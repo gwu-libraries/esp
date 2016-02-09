@@ -1,3 +1,5 @@
+![headshot](images/rus_librarian.jpg)  
+
 # Characteristics  
 *These are librarians who will be searching the ETD site, often to help others. They may also be teaching the ETD site to students both for depositing as well as searching. As liaisons they may use the information within the ETD site when working with departments.*  
 ## Goals
