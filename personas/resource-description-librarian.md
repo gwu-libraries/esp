@@ -7,4 +7,4 @@ The Resource Description Librarian is part of the Resource Description Group, wh
 
 ## Goals
 1. The Resource Description Librarian needs to ensure that when ETDs are approved for publication, they are not only added to the ETD system, but are added to the Library's catalog with corresponding metadata; and that catalog records for the ETDs include links to the ETD item pages in the ETD system.
-2. The Resource Description Librarian needs to ensure that when the metadata of GW ETDs is modified in the ETD system or in the catalog, that both systems reflect the updated metadata.
+2. The Resource Description Librarian needs to ensure that when the metadata of GW ETDs is modified in the ETD system or in the catalog, both systems reflect the updated metadata.
