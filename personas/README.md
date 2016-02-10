@@ -11,3 +11,4 @@ Current personas for ESP:
 * [Archivist](/personas/archivist.md)
 * [Content Administrator](/personas/content-admin.md)
 * [System Administrator](/personas/sysadmin.md)
+* [Section 508 User](/personas/section508user.md)
