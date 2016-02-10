@@ -9,4 +9,7 @@ The [Sample](/personas/sample.md) persona can be used as a template for developi
 
 Current personas for ESP:
 * [Archivist](/personas/archivist.md)
-* [Automated Indexer](/personas/robot.md)
+* [Content Administrator](/personas/content-admin.md)
+* [System Administrator](/personas/sysadmin.md)
+* [Section 508 User](/personas/section508user.md)
+* [Automated Indexer/Crawler](/personas/robot.md)
