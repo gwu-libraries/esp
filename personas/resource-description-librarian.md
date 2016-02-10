@@ -1,6 +1,6 @@
 # Resource Description Librarian
 
-Image Placeholder
+![headshot](images/resource-description-librarian.jpg)
 
 ## Characteristics
 The Resource Description Librarian is part of the Resource Description Group, which is responsible for ensuring that the Library's electronic catalog records contain complete and accurate metadata, and that catalog records are added when new items are added to the Library's collection and that records are deleted when items are deaccessioned from the Library.
