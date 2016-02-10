@@ -9,4 +9,5 @@ The [Sample](/personas/sample.md) persona can be used as a template for developi
 
 Current personas for ESP:
 * [Archivist](/personas/archivist.md)
+* [Content Administrator](/personas/content-admin.md)
 * [System Administrator](/personas/sysadmin.md)
