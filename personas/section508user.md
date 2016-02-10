@@ -3,7 +3,7 @@
 Image Placeholder
 
 ## Characteristics
-The Section 508 User may be any of the other personas, with the additional characteristic that this user interacts with the system through use of screen reader software.
+The Section 508 User may be any of the other personas, with one or more additional accommodations needed in order to view and interact with the system.
 
 ## Goals
 
