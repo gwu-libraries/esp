@@ -9,4 +9,4 @@ The Archivist is a librarian who has curatorial responsibility for ETDs submitte
 1. The Archivist’s primary goal for the ETD system is the long-term preservation of the ETDs, which is defined as the ability to access and use the main body of the ETDs over time (not necessarily any supplementary files).
 2. The Archivist needs the ETD system to provide improved findability and access to the ETDs, particularly by department or academic subject.
 3. The Archivist needs to respond to users who report that they are unable to access content. In this way, she often serves as the "front line" for preservation/access issues.
-4. The Archivist wants the ETD system to provide open access to ETDs for researchers who don’t have access to ProQuest.
+4. The Archivist wants the ETD system to provide open access (9unless where required to do otherwise) to ETDs for researchers who don’t have access to ProQuest.
