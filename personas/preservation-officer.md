@@ -4,7 +4,9 @@
 
 ## Characteristics
 The Preservation Officer is a librarian who is responsible for working with others across the library to plan for long-term access to digital library content, including ETDs, scholarly works, archived university records, and digital surrogates of collection material. He is responsible for documenting what commitments the library has made to making which digital content accessible long-term, in the form of digital preservation policies.
-He is responsible for working with the [Systems Administrator](/personas/sysadmin.md)* to estimate the cost of maintaining and providing access this material. He is responsible for communicating these costs to curators, to help them make collection development decisions.
+
+He is responsible for working with the [Systems Administrator](/personas/sysadmin.md) to estimate the cost of maintaining and providing access this material. He is responsible for communicating these costs to curators, to help them make collection development decisions.
+
 He is responsible for developing the workflows to implement the digital preservation policies, and working with the [Archivist](/personas/archivist.md) and [Systems Administrator](/personas/sysadmin.md) to implement these workflows.
 
 
@@ -17,5 +19,3 @@ He is responsible for developing the workflows to implement the digital preserva
 
 
 
-
-*link to be updated
