@@ -6,17 +6,19 @@
 
 ##Goals: 
 ###Phase One (Prospective Student):
-  1.The student will want to search by advisor and department.  
-  2.The student will want to search by keyword.  
-  3.The student will want to search by date, cross referenced by keyword, advisor, and/or department.   
-  4.The student may not have access to Proquest Dissertations & Theses  
-  5.The student will not have a login for off campus access.  
-  6.The student will want to download the dissertation.  
+  1.The student will want to search or browse by advisor and department.  
+  2.The student will want to search or browse by keyword.  
+  3.The student will want to search or browse by date, cross referenced by keyword, advisor, and/or department.   
+  4.The student will want to filter to view only ETDs, theses, or dissertations.
+  5.The student will want to download the dissertation.  
+#### Characteristics
+  The student may not have access to Proquest Dissertations & Theses. The student will not have a login for off campus access.  
 ###	Phase Two (Research Phase):  
-  1.The student will want to search (the abstract only?: bibliography? full text?) by keyword.  
-  2.The student will want to limit the search by date.  
-  3.The student will have a login for off campus access.  
-  4.The student will want to download a dissertation.  
+  1.The student will want to search or browse by keyword.  
+  2.The student will want to search by full text.  
+  3.The student will want to limit the search by date.  
+  4.The student will have a login for off campus access.  
+  5.The student will want to download a dissertation.  
 ###	Phase Three (Submission Phase):  
   1.The student will be working with the deposit application directly and Proquest.  
   2.The student will want a durable link for their dissertation.  
