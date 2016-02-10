@@ -15,7 +15,7 @@ He is responsible for developing the workflows to implement the digital preserva
 2. The Preservation Officer needs the system to provide bit-level preservation of all repository material (including ETDs), and the means to recover from bit-level errors.
 3. The Preservation Officer is also concerned with preserving access to the primary ETD files, although not as concerned about providing anything beyond bit-level preservation of supplementary files.
 4. The Preservation Officer is concerned about being able to monitor system-wide use of resources (storage grown, staff time spent on preservation, reports from users for inability to access content).
-
+5. The Preservation Office is responsible for migrating the ETDs, metadata, and embargo data into a new system in the future, when this system is retired. 
 
 
 
