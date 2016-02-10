@@ -18,5 +18,6 @@ Current personas for ESP:
 * [External Researcher](/personas/external-researcher.md)
 * [Program Coordinator](/personas/program-coordinator.md)
 * [University Administrator](/personas/university-administrator.md)
+* [Resource Description Librarian](/personas/resource-description-librarian.md)
 * [Section 508 User](/personas/section508user.md)
 * [Automated Indexer/Crawler](/personas/robot.md)
