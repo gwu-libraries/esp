@@ -1,6 +1,6 @@
 # System Administrator
 
-Image Placeholder
+![headshot](images/sysadmin.jpg)
 
 ## Characteristics
 The System Administrator has responsibility for the technical management of the system, including the application and the servers on which it runs.  The System Administrator must ensure that the system is highly available, responsive/performant, and that there are no technical problems that interfere with others performing their roles with respect to the system.  The System Administrator is responsible for backups, restoring from backups, and redeploying the system on new servers as needed.
