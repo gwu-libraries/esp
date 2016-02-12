@@ -8,7 +8,7 @@ The Program Coordinator works in the graduate school directly with the graduate 
 ## Goals
 The Program Coordinator wants to be able to:
 
-1. Rretrieve the descriptive metadata and a copy of a student’s thesis or dissertation as a record of a completed partial requirement of graduation.
+1. Retrieve the descriptive metadata and a copy of a student’s thesis or dissertation as a record of a completed partial requirement of graduation.
 2. Produce reports specific to his or her program or department’s scholarly output. This data may include a breakdown of what was produced by the school or department during a period of time (total number of ETDs, number broken down by topic, advisor, etc.), and usage analytics, 
 be numerical in nature, perhaps in terms of usage or views, etc.
 3. Find dissertations/thesis appropriate to highlight on website to advertise type of research being done in department.
