@@ -1,6 +1,6 @@
 # Archivist
 
-![headshot](images/archivist.jpg)
+![headshot](images/archivist-sm.jpg)
 
 ## Characteristics
 The Archivist is a librarian who has curatorial responsibility for ETDs submitted to the library. She answers reference questions about theses & dissertations, and also works with the Preservation Officer to ensure their long-term preservation. She works with the Preservation Officer to make sure that preservation workflows and long-term preservation planning take into account any special preservation needs of the ETDs, and helps carry out some of these workflows as they apply to the ETDs. While the Archivist has more familiarity with the ETD system and its technology than the average person, she is not a developer. Outside of special projects, the archivist typically spends an hour or less of her time per week on ETDs in particular.
