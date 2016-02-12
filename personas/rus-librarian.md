@@ -1,4 +1,4 @@
-# Research & User Service Librarian
+# Research & User Services Librarian
 
 ![headshot](images/rus_librarian-sm.jpg)  
 
