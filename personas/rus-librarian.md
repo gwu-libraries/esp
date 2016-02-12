@@ -1,3 +1,5 @@
+# Research & User Service Librarian
+
 ![headshot](images/rus_librarian-sm.jpg)  
 
 # Characteristics  
