@@ -1,6 +1,6 @@
 # Section 508 User
 
-Image Placeholder
+![headshot](images/jordy.jpg)
 
 ## Characteristics
 The Section 508 User may be any of the other personas, with one or more additional accommodations needed in order to view and interact with the system.
