@@ -1,10 +1,8 @@
-We will be using ESP personas in this project to:
+We are using ESP personas in this project to:
 
 1. Organize our knowledge and beliefs about who are the most likely and most important users of the ETD stewardship system
 2. Prioritize feature development through the creation and prioritization of user stories based on the personas
 3. Potentially identify areas where additional research into user needs or behavior would be useful
-
-The [Sample](/personas/sample.md) persona can be used as a template for developing personas
 
 Current personas for ESP:
 * [Archivist](/personas/archivist.md)
