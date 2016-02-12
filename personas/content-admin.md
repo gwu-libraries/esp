@@ -3,7 +3,7 @@
 
 
 ## Characteristics
-The Content Administrator is a librarian who has responsibility for ensuring that new ETDs are successfully added to the ETD system, and that the metadata of each ETD is correct and complete.  The Content Administrator also determines when ETDs should be published (made public) in the ETD system.  The Content Administrator is also the adminstrator of GW's ETD content in the other system(s) involved in the ETD workflow, and is knowledgeable about ETD metadata.
+The Content Administrator has responsibility for ensuring that new ETDs are successfully added to the ETD system, and that the metadata of each ETD is correct and complete.  The Content Administrator also determines when ETDs should be published (made public) in the ETD system.  The Content Administrator is also the adminstrator of GW's ETD content in the other system(s) involved in the ETD workflow, and is knowledgeable about ETD metadata.
 
 The Content Administrator is a primary point of contact for student authors.
 
